@@ -1,0 +1,32 @@
+[
+ {
+  "file": "2026-11-17_kr.json",
+  "date": "2026-11-17",
+  "market": "kr"
+ },
+ {
+  "file": "2026-11-22_in_amazon.json",
+  "date": "2026-11-22",
+  "market": "in_amazon"
+ },
+ {
+  "file": "2026-11-22_in_nykaa.json",
+  "date": "2026-11-22",
+  "market": "in_nykaa"
+ },
+ {
+  "file": "2026-11-22_uk.json",
+  "date": "2026-11-22",
+  "market": "uk"
+ },
+ {
+  "file": "2026-11-22_us.json",
+  "date": "2026-11-22",
+  "market": "us"
+ },
+ {
+  "file": "2026-11-23_news.json",
+  "date": "2026-11-23",
+  "market": "news"
+ }
+]
