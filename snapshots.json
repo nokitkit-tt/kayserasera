@@ -28,5 +28,35 @@
   "file": "2026-11-23_news.json",
   "date": "2026-11-23",
   "market": "news"
+ },
+ {
+  "file": "2026-11-25_in_amazon.json",
+  "date": "2026-11-25",
+  "market": "in_amazon"
+ },
+ {
+  "file": "2026-11-25_in_nykaa.json",
+  "date": "2026-11-25",
+  "market": "in_nykaa"
+ },
+ {
+  "file": "2026-11-25_kr.json",
+  "date": "2026-11-25",
+  "market": "kr"
+ },
+ {
+  "file": "2026-11-25_news.json",
+  "date": "2026-11-25",
+  "market": "news"
+ },
+ {
+  "file": "2026-11-25_uk.json",
+  "date": "2026-11-25",
+  "market": "uk"
+ },
+ {
+  "file": "2026-11-25_us.json",
+  "date": "2026-11-25",
+  "market": "us"
  }
 ]
